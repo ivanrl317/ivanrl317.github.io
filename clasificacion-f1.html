@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Clasificación Fórmula 1</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-dark">
+  <header class="main-header">
+    <div class="logo">Portal <span>Deportivo</span></div>
+    <nav class="main-nav">
+      <a href="index.html">Inicio</a>
+      <a href="noticias-futbol.html">Noticias Fútbol</a>
+      <a href="noticias-f1.html">Noticias F1</a>
+      <a href="clasificaciones-futbol.html">Clasificaciones Fútbol</a>
+      <a href="clasificacion-f1.html" class="active">Clasificación F1</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="page-header">
+      <h1>Clasificación Fórmula 1</h1>
+      <p>Tabla completa de pilotos y constructores.</p>
+    </section>
+
+    <section class="tables-grid">
+      <article class="card table-card">
+        <h2>Pilotos</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Pos</th>
+              <th>Piloto</th>
+              <th>Equipo</th>
+              <th>Pts</th>
+            </tr>
+          </thead>
+          <tbody id="tabla-pilotos"></tbody>
+        </table>
+      </article>
+
+      <article class="card table-card">
+        <h2>Constructores</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Pos</th>
+              <th>Equipo</th>
+              <th>Pts</th>
+            </tr>
+          </thead>
+          <tbody id="tabla-constructores"></tbody>
+        </table>
+      </article>
+    </section>
+  </main>
+
+  <footer class="main-footer">
+    <p>&copy; 2026 Portal Deportivo</p>
+  </footer>
+
+  <script src="script.js"></script>
+  <script>
+    cargarClasificacionF1();
+  </script>
+</body>
+</html>

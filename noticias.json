@@ -1,0 +1,54 @@
+{
+  "futbol": [
+    {
+      "titulo": "Remontada épica en LaLiga",
+      "texto": "El líder del campeonato logró darle la vuelta a un 0-2 en los últimos 15 minutos.",
+      "link": "#",
+      "categoria": "LaLiga"
+    },
+    {
+      "titulo": "Duelo de gigantes en la Premier",
+      "texto": "Arsenal y Manchester City firman un partido eléctrico con ocasiones para ambos.",
+      "link": "#",
+      "categoria": "Premier League"
+    },
+    {
+      "titulo": "La Champions entra en su fase decisiva",
+      "texto": "Los cruces de cuartos prometen emoción con enfrentamientos históricos.",
+      "link": "#",
+      "categoria": "Champions League"
+    },
+    {
+      "titulo": "La lucha por Europa se aprieta",
+      "texto": "Varios equipos se disputan las plazas europeas en las últimas jornadas.",
+      "link": "#",
+      "categoria": "Fútbol europeo"
+    }
+  ],
+  "f1": [
+    {
+      "titulo": "Verstappen domina bajo la lluvia",
+      "texto": "El piloto neerlandés se impone en un Gran Premio marcado por las condiciones cambiantes.",
+      "link": "#",
+      "categoria": "Gran Premio"
+    },
+    {
+      "titulo": "McLaren presenta mejoras aerodinámicas",
+      "texto": "El equipo británico introduce un nuevo paquete que podría cambiar el orden de la parrilla.",
+      "link": "#",
+      "categoria": "Técnica"
+    },
+    {
+      "titulo": "Ferrari busca recuperar sensaciones",
+      "texto": "La escudería italiana trabaja en la consistencia de su monoplaza para pelear por victorias.",
+      "link": "#",
+      "categoria": "Ferrari"
+    },
+    {
+      "titulo": "La batalla en la zona media se intensifica",
+      "texto": "Equipos como Alpine, RB y Aston Martin se juegan puntos clave en cada carrera.",
+      "link": "#",
+      "categoria": "Parrilla"
+    }
+  ]
+}

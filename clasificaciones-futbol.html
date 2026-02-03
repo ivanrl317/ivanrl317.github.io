@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Clasificaciones de Fútbol</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-dark">
+  <header class="main-header">
+    <div class="logo">Portal <span>Deportivo</span></div>
+    <nav class="main-nav">
+      <a href="index.html">Inicio</a>
+      <a href="noticias-futbol.html">Noticias Fútbol</a>
+      <a href="noticias-f1.html">Noticias F1</a>
+      <a href="clasificaciones-futbol.html" class="active">Clasificaciones Fútbol</a>
+      <a href="clasificacion-f1.html">Clasificación F1</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="page-header">
+      <h1>Clasificaciones de Fútbol</h1>
+      <p>Tablas completas de las mejores ligas del mundo y la Champions League.</p>
+    </section>
+
+    <section class="tables-grid">
+      <article class="card table-card">
+        <h2>LaLiga</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Pos</th>
+              <th>Equipo</th>
+              <th>Pts</th>
+            </tr>
+          </thead>
+          <tbody id="tabla-laliga"></tbody>
+        </table>
+      </article>
+
+      <article class="card table-card">
+        <h2>Premier League</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Pos</th>
+              <th>Equipo</th>
+              <th>Pts</th>
+            </tr>
+          </thead>
+          <tbody id="tabla-premier"></tbody>
+        </table>
+      </article>
+
+      <article class="card table-card">
+        <h2>Serie A</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Pos</th>
+              <th>Equipo</th>
+              <th>Pts</th>
+            </tr>
+          </thead>
+          <tbody id="tabla-seriea"></tbody>
+        </table>
+      </article>
+
+      <article class="card table-card">
+        <h2>Bundesliga</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Pos</th>
+              <th>Equipo</th>
+              <th>Pts</th>
+            </tr>
+          </thead>
+          <tbody id="tabla-bundesliga"></tbody>
+        </table>
+      </article>
+
+      <article class="card table-card">
+        <h2>Ligue 1</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Pos</th>
+              <th>Equipo</th>
+              <th>Pts</th>
+            </tr>
+          </thead>
+          <tbody id="tabla-ligue1"></tbody>
+        </table>
+      </article>
+
+      <article class="card table-card wide">
+        <h2>Champions League · Fase de grupos</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Grupo</th>
+              <th>Pos</th>
+              <th>Equipo</th>
+              <th>Pts</th>
+            </tr>
+          </thead>
+          <tbody id="tabla-champions"></tbody>
+        </table>
+      </article>
+    </section>
+  </main>
+
+  <footer class="main-footer">
+    <p>&copy; 2026 Portal Deportivo</p>
+  </footer>
+
+  <script src="script.js"></script>
+  <script>
+    cargarClasificacionesFutbol();
+  </script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Noticias de Fórmula 1</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-dark">
+  <header class="main-header">
+    <div class="logo">Portal <span>Deportivo</span></div>
+    <nav class="main-nav">
+      <a href="index.html">Inicio</a>
+      <a href="noticias-futbol.html">Noticias Fútbol</a>
+      <a href="noticias-f1.html" class="active">Noticias F1</a>
+      <a href="clasificaciones-futbol.html">Clasificaciones Fútbol</a>
+      <a href="clasificacion-f1.html">Clasificación F1</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="page-header">
+      <h1>Noticias de Fórmula 1</h1>
+      <p>Resultados, análisis y novedades del Mundial de F1.</p>
+    </section>
+
+    <section id="contenedor-noticias-f1" class="news-grid">
+      <!-- Noticias cargadas por JS -->
+    </section>
+  </main>
+
+  <footer class="main-footer">
+    <p>&copy; 2026 Portal Deportivo</p>
+  </footer>
+
+  <script src="script.js"></script>
+  <script>
+    cargarNoticias("f1", "contenedor-noticias-f1");
+  </script>
+</body>
+</html>
