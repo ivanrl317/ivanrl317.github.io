@@ -1,0 +1,15 @@
+# robots.txt - Optimizado para buscadores
+
+# Aplica a todos los buscadores
+User-agent: *
+
+# No bloquea nada
+Disallow:
+
+# Indica la ubicación de tu sitemap
+Sitemap: https://tudominio.com/sitemap.xml
+
+# Opcional: carpetas que a veces no quieres indexar
+# Disallow: /admin/
+# Disallow: /login/
+# Disallow: /tmp/
