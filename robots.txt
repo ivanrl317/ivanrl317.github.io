@@ -7,7 +7,7 @@ User-agent: *
 Disallow:
 
 # Indica la ubicación de tu sitemap
-Sitemap: https://tudominio.com/sitemap.xml
+Sitemap: https://ivanrl317.github.io/sitemap.xml
 
 # Opcional: carpetas que a veces no quieres indexar
 # Disallow: /admin/
