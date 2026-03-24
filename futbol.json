@@ -1,0 +1,103 @@
+{
+  "laliga": [
+    { "pos": 1, "equipo": "Real Madrid", "puntos": 85 },
+    { "pos": 2, "equipo": "Barcelona", "puntos": 80 },
+    { "pos": 3, "equipo": "Girona", "puntos": 74 },
+    { "pos": 4, "equipo": "Atlético de Madrid", "puntos": 70 },
+    { "pos": 5, "equipo": "Athletic Club", "puntos": 65 },
+    { "pos": 6, "equipo": "Real Sociedad", "puntos": 60 },
+    { "pos": 7, "equipo": "Betis", "puntos": 56 },
+    { "pos": 8, "equipo": "Villarreal", "puntos": 52 },
+    { "pos": 9, "equipo": "Valencia", "puntos": 49 },
+    { "pos": 10, "equipo": "Sevilla", "puntos": 45 }
+  ],
+  "premier": [
+    { "pos": 1, "equipo": "Manchester City", "puntos": 88 },
+    { "pos": 2, "equipo": "Arsenal", "puntos": 86 },
+    { "pos": 3, "equipo": "Liverpool", "puntos": 82 },
+    { "pos": 4, "equipo": "Aston Villa", "puntos": 70 },
+    { "pos": 5, "equipo": "Tottenham", "puntos": 66 },
+    { "pos": 6, "equipo": "Newcastle", "puntos": 60 },
+    { "pos": 7, "equipo": "Manchester United", "puntos": 58 },
+    { "pos": 8, "equipo": "Chelsea", "puntos": 55 },
+    { "pos": 9, "equipo": "West Ham", "puntos": 50 },
+    { "pos": 10, "equipo": "Brighton", "puntos": 48 }
+  ],
+  "seriea": [
+    { "pos": 1, "equipo": "Inter", "puntos": 90 },
+    { "pos": 2, "equipo": "Milan", "puntos": 82 },
+    { "pos": 3, "equipo": "Juventus", "puntos": 78 },
+    { "pos": 4, "equipo": "Atalanta", "puntos": 70 },
+    { "pos": 5, "equipo": "Napoli", "puntos": 66 },
+    { "pos": 6, "equipo": "Roma", "puntos": 63 },
+    { "pos": 7, "equipo": "Lazio", "puntos": 60 },
+    { "pos": 8, "equipo": "Fiorentina", "puntos": 55 },
+    { "pos": 9, "equipo": "Bologna", "puntos": 52 },
+    { "pos": 10, "equipo": "Torino", "puntos": 48 }
+  ],
+  "bundesliga": [
+    { "pos": 1, "equipo": "Bayer Leverkusen", "puntos": 88 },
+    { "pos": 2, "equipo": "Bayern Múnich", "puntos": 82 },
+    { "pos": 3, "equipo": "Stuttgart", "puntos": 72 },
+    { "pos": 4, "equipo": "RB Leipzig", "puntos": 68 },
+    { "pos": 5, "equipo": "Borussia Dortmund", "puntos": 65 },
+    { "pos": 6, "equipo": "Eintracht Frankfurt", "puntos": 55 },
+    { "pos": 7, "equipo": "Hoffenheim", "puntos": 50 },
+    { "pos": 8, "equipo": "Freiburg", "puntos": 48 },
+    { "pos": 9, "equipo": "Werder Bremen", "puntos": 44 },
+    { "pos": 10, "equipo": "Wolfsburgo", "puntos": 42 }
+  ],
+  "ligue1": [
+    { "pos": 1, "equipo": "Paris Saint-Germain", "puntos": 86 },
+    { "pos": 2, "equipo": "Monaco", "puntos": 74 },
+    { "pos": 3, "equipo": "Lille", "puntos": 68 },
+    { "pos": 4, "equipo": "Lyon", "puntos": 62 },
+    { "pos": 5, "equipo": "Marseille", "puntos": 60 },
+    { "pos": 6, "equipo": "Nice", "puntos": 57 },
+    { "pos": 7, "equipo": "Rennes", "puntos": 53 },
+    { "pos": 8, "equipo": "Lens", "puntos": 50 },
+    { "pos": 9, "equipo": "Montpellier", "puntos": 45 },
+    { "pos": 10, "equipo": "Nantes", "puntos": 42 }
+  ],
+  "champions": [
+    { "grupo": "A", "pos": 1, "equipo": "Bayern Múnich", "puntos": 14 },
+    { "grupo": "A", "pos": 2, "equipo": "Manchester United", "puntos": 10 },
+    { "grupo": "A", "pos": 3, "equipo": "Copenhague", "puntos": 7 },
+    { "grupo": "A", "pos": 4, "equipo": "Galatasaray", "puntos": 4 },
+
+    { "grupo": "B", "pos": 1, "equipo": "Arsenal", "puntos": 13 },
+    { "grupo": "B", "pos": 2, "equipo": "PSV", "puntos": 11 },
+    { "grupo": "B", "pos": 3, "equipo": "Sevilla", "puntos": 5 },
+    { "grupo": "B", "pos": 4, "equipo": "Lens", "puntos": 4 },
+
+    { "grupo": "C", "pos": 1, "equipo": "Real Madrid", "puntos": 18 },
+    { "grupo": "C", "pos": 2, "equipo": "Napoli", "puntos": 10 },
+    { "grupo": "C", "pos": 3, "equipo": "Braga", "puntos": 4 },
+    { "grupo": "C", "pos": 4, "equipo": "Union Berlin", "puntos": 2 },
+
+    { "grupo": "D", "pos": 1, "equipo": "Inter", "puntos": 12 },
+    { "grupo": "D", "pos": 2, "equipo": "Real Sociedad", "puntos": 12 },
+    { "grupo": "D", "pos": 3, "equipo": "Benfica", "puntos": 4 },
+    { "grupo": "D", "pos": 4, "equipo": "Salzburg", "puntos": 3 },
+
+    { "grupo": "E", "pos": 1, "equipo": "Atlético de Madrid", "puntos": 14 },
+    { "grupo": "E", "pos": 2, "equipo": "Lazio", "puntos": 10 },
+    { "grupo": "E", "pos": 3, "equipo": "Feyenoord", "puntos": 6 },
+    { "grupo": "E", "pos": 4, "equipo": "Celtic", "puntos": 1 },
+
+    { "grupo": "F", "pos": 1, "equipo": "Borussia Dortmund", "puntos": 11 },
+    { "grupo": "F", "pos": 2, "equipo": "Paris Saint-Germain", "puntos": 8 },
+    { "grupo": "F", "pos": 3, "equipo": "Milan", "puntos": 8 },
+    { "grupo": "F", "pos": 4, "equipo": "Newcastle", "puntos": 5 },
+
+    { "grupo": "G", "pos": 1, "equipo": "Manchester City", "puntos": 18 },
+    { "grupo": "G", "pos": 2, "equipo": "RB Leipzig", "puntos": 12 },
+    { "grupo": "G", "pos": 3, "equipo": "Young Boys", "puntos": 4 },
+    { "grupo": "G", "pos": 4, "equipo": "Estrella Roja", "puntos": 1 },
+
+    { "grupo": "H", "pos": 1, "equipo": "Barcelona", "puntos": 12 },
+    { "grupo": "H", "pos": 2, "equipo": "Porto", "puntos": 12 },
+    { "grupo": "H", "pos": 3, "equipo": "Shakhtar Donetsk", "puntos": 9 },
+    { "grupo": "H", "pos": 4, "equipo": "Antwerp", "puntos": 3 }
+  ]
+}

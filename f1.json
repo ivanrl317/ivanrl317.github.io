@@ -1,0 +1,36 @@
+{
+  "pilotos": [
+    { "pos": 1, "piloto": "Max Verstappen", "equipo": "Red Bull", "puntos": 260 },
+    { "pos": 2, "piloto": "Lando Norris", "equipo": "McLaren", "puntos": 210 },
+    { "pos": 3, "piloto": "Charles Leclerc", "equipo": "Ferrari", "puntos": 195 },
+    { "pos": 4, "piloto": "Carlos Sainz", "equipo": "Ferrari", "puntos": 180 },
+    { "pos": 5, "piloto": "Oscar Piastri", "equipo": "McLaren", "puntos": 165 },
+    { "pos": 6, "piloto": "Lewis Hamilton", "equipo": "Mercedes", "puntos": 150 },
+    { "pos": 7, "piloto": "George Russell", "equipo": "Mercedes", "puntos": 140 },
+    { "pos": 8, "piloto": "Sergio Pérez", "equipo": "Red Bull", "puntos": 135 },
+    { "pos": 9, "piloto": "Fernando Alonso", "equipo": "Aston Martin", "puntos": 120 },
+    { "pos": 10, "piloto": "Lance Stroll", "equipo": "Aston Martin", "puntos": 70 },
+    { "pos": 11, "piloto": "Pierre Gasly", "equipo": "Alpine", "puntos": 55 },
+    { "pos": 12, "piloto": "Esteban Ocon", "equipo": "Alpine", "puntos": 50 },
+    { "pos": 13, "piloto": "Yuki Tsunoda", "equipo": "RB", "puntos": 40 },
+    { "pos": 14, "piloto": "Daniel Ricciardo", "equipo": "RB", "puntos": 32 },
+    { "pos": 15, "piloto": "Valtteri Bottas", "equipo": "Kick Sauber", "puntos": 20 },
+    { "pos": 16, "piloto": "Zhou Guanyu", "equipo": "Kick Sauber", "puntos": 15 },
+    { "pos": 17, "piloto": "Alex Albon", "equipo": "Williams", "puntos": 14 },
+    { "pos": 18, "piloto": "Logan Sargeant", "equipo": "Williams", "puntos": 5 },
+    { "pos": 19, "piloto": "Nico Hülkenberg", "equipo": "Haas", "puntos": 10 },
+    { "pos": 20, "piloto": "Kevin Magnussen", "equipo": "Haas", "puntos": 6 }
+  ],
+  "constructores": [
+    { "pos": 1, "equipo": "Red Bull", "puntos": 395 },
+    { "pos": 2, "equipo": "McLaren", "puntos": 375 },
+    { "pos": 3, "equipo": "Ferrari", "puntos": 360 },
+    { "pos": 4, "equipo": "Mercedes", "puntos": 290 },
+    { "pos": 5, "equipo": "Aston Martin", "puntos": 190 },
+    { "pos": 6, "equipo": "Alpine", "puntos": 105 },
+    { "pos": 7, "equipo": "RB", "puntos": 72 },
+    { "pos": 8, "equipo": "Kick Sauber", "puntos": 35 },
+    { "pos": 9, "equipo": "Williams", "puntos": 19 },
+    { "pos": 10, "equipo": "Haas", "puntos": 16 }
+  ]
+}
